@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 30px;
+  flex-wrap: wrap;
+  border: 1px solid #000;
+  margin: 30px;
+}
+
+.box {
+  width: 260px;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  font-family: Arial, sans-serif;
+}
+
+dt {
+  font-weight: 500;
+  margin-top: 10px;
+}
+
+dd {
+  margin-left: 0;
+}

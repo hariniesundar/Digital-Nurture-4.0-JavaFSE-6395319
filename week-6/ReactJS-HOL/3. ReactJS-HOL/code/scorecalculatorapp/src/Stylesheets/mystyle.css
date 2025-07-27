@@ -1,0 +1,32 @@
+body {
+  background-color: #eef2f5;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.score-container {
+  width: 60%;
+  margin: 50px auto;
+  padding: 30px;
+  background-color: white;
+  border: 2px solid #007bff;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.score-container h2 {
+  text-align: center;
+  color: #007bff;
+  margin-bottom: 20px;
+}
+
+.score-container p {
+  font-size: 1.1rem;
+  margin: 10px 0;
+  color: #333;
+}
+
+.score-container p strong {
+  width: 120px;
+  display: inline-block;
+  color: #000;
+}
