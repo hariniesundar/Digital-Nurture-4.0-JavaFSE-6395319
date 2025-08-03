@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CohortDetails component should match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h2>
+      Cohort Alpha
+    </h2>
+    <p>
+      Technology: ReactJS
+    </p>
+    <p>
+      Status: ongoing
+    </p>
+  </div>
+</DocumentFragment>
+`;
